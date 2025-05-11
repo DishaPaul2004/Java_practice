@@ -1,1 +1,31 @@
 # Java programs which I have practised so far
+-  Determine if 2 strings are anagrams of each other
+-  Find the leaders in an array, i.e., the elements which are greater than all the elements to their right
+-  Given an array where each element denotes the number of chocolates in a packet, allocate the chocolates to m students such that the difference between the maximum number of chocolates allotted and the minimum number of the same is minimum
+-  Count and display the triplets such that the sum of any 2 numbers of the array equals another number of that array
+-  From an array, find the element with left side smaller and right side greater
+-  Find the equilibrium point of an array, i.e., the point before which and after which the sum of the elements are equal
+-  Given an array, find the largest number that can be formed by concatenating the elements of that array
+-  Return the 1-based indices of the leftmost and the rightmost elements of a subarray having the sum 'target' from an array of non-negative integers
+-  Find the inversion count of an array, i.e., how far the array is from being sorted
+-  Find the maximum subarray sum (Kadane's algorithm)
+-  Find the maximum value of j-i from an array of positive integers arr such that arr[i]<=arr[j] and i<=j
+-  Given 2 arrays, one of arrival times and one of departure times, find the minimum number of platforms required such that no train has to wait
+-  Find the missing number in an array
+-  Take 2 input arrays, X and Y, and count the number of pairs such that x^y>y^x for x belonging to X and y belonging to Y
+-  Find the number of occurrences of a character in a string
+-  From an array, find the pair of numbers with sum closest to 0
+-  Check for valid parentheses
+-  Find a pythagorean triplet in an array (a,b,c) such that a^2+b^2=c^2
+-  Rearrange array without using extra space such that the maximum element is the 1st element, minimum element is the 2nd element, 2nd maximum element is the 3rd element, 2nd minimum element is the 4th element and so on
+-  Reverse array in groups of size K
+-  Implement a singly linked list in Java
+-  Sort 0s, 1s and 2s of an array such that all 0s are at the beginning, all 2s are at the end and all the 1s are in the middle
+-  Spirally traverse a matrix
+-  Given an array consisting of stock prices of each day, find the maximum amount of profit if we can buy and sell those stocks any number of times. We can only sell a stock we bought earlier and we cannot hold multiple stocks on any day.
+-  Given an array consisting of stock prices of each day, find the maximum amount of profit if we can buy and sell those stocks (maximum one transaction allowed)
+-  Find the subarray with the maximum sum
+-  Given an array of non-negative integers, each which represents the height of a block, find the amount of water that can be trapped if the width of a block is 1
+-  Find a pair of numbers in an array such that their sum equals the target sum
+-  Given an array arr of distinct elements, the task is to rearrange the elements of the array in a zig-zag fashion so that the converted array should be in the below form: 
+     arr[0] < arr[1]  > arr[2] < arr[3] > arr[4] < . . . . arr[n-2] < arr[n-1] > arr[n].
